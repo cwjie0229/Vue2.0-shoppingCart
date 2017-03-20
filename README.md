@@ -7,6 +7,8 @@
 ``` bash
 # install dependencies
 npm install
+# install dependencies
+npm install vue-router@2.3.0
 
 # serve with hot reload at localhost:8080
 npm run dev
